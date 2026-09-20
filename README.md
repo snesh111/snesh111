@@ -1,77 +1,48 @@
-<h1 align="center">Hi there, I'm Snesh Subbiah Raj 👋</h1>
-<p align="center">
-  <b>DevOps & Cloud Engineer</b> • <i>Automating Infrastructure, Scaling Systems & Eliminating Downtime</i>
-</p>
+# Hi there, I'm Snesh Subbiah Raj 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/snesh-raj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rajsnesh67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-181717?style=for-the-badge&logo=google-maps&logoColor=white" alt="Mumbai, India" />
-</p>
+**DevOps & Cloud Engineer** • *Automating Infrastructure, Scaling Systems & Eliminating Downtime*
+
+Final-year Information Technology student at Vivek College, Mumbai[cite: 3]. I design, deploy, and automate resilient cloud-native systems end-to-end on AWS using Terraform, Kubernetes, and Jenkins[cite: 3].
 
 ---
 
-### 👨‍💻 Engineering Philosophy & Focus
+### 🛠️ Tech Stack
 
-Final-year Information Technology student at Vivek College, Mumbai[cite: 3]. I design, deploy, and automate resilient cloud systems end-to-end[cite: 3]:
-
-* ☁️ **Cloud Native & IaC:** Architecting multi-tier AWS environments codified using Terraform and CloudFormation[cite: 3].
-* ⚙️ **Container Orchestration:** Deploying containerized workloads to AWS EKS with autoscaling and zero-downtime rollouts[cite: 3].
-* 🔄 **CI/CD Automation:** Constructing multi-stage Jenkins pipelines via GitHub Webhooks to eliminate manual interventions[cite: 3].
-* 📊 **Observability:** Instrumenting Prometheus metrics collection and Grafana dashboards for proactive cluster health tracking[cite: 3].
-
----
-
-### 🛠️ Core Technology Stack
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Cloud Platforms** | AWS (EKS, EC2, VPC, S3, IAM, ECR, Secrets Manager)[cite: 3] |
-| **Infrastructure as Code** | Terraform, AWS CloudFormation[cite: 3] |
-| **Containers & Orchestration** | Docker, Kubernetes (EKS, HPA)[cite: 3] |
-| **CI/CD & Config Management** | Jenkins (Multi-stage Pipelines), GitHub Webhooks, Ansible[cite: 3] |
-| **Monitoring & Telemetry** | Prometheus, Grafana, AWS CloudWatch[cite: 3] |
-| **Languages & Scripting** | Python, Bash scripting, Node.js[cite: 3] |
-| **OS & Networking** | Linux (Ubuntu), OSI Model, Virtual Networks (VPC/Subnets)[cite: 3] |
-
----
-
-### 🌟 Featured Architectures & Projects
-
-* **[ScaleX Flash Sale Simulation System](https://github.com/snesh111/scalex-flash-sale-platform)**[cite: 3]
-  * Validated system scalability under flash sale loads simulating 13,000–17,000 concurrent requests using k6[cite: 3].
-  * Eliminated concurrency race conditions using Redis-backed task queues across 13k+ orders[cite: 3].
-  * Configured Kubernetes Horizontal Pod Autoscaler (HPA) to scale microservices dynamically from 2 to 10 pods under stress[cite: 3].
-
-* **[RealTalk Cloud-Native Community Platform](https://github.com/snesh111/realtalk)**[cite: 3]
-  * Provisioned 17 AWS resources (VPC, private/public subnets, IAM, EKS) using modular Terraform IaC[cite: 3].
-  * Designed a 6-stage Jenkins CI/CD pipeline triggering multi-stage Docker builds automatically on GitHub pushes[cite: 3].
-  * Configured Prometheus exporters and Grafana panels to trace cluster latency and CPU/memory pressure in real time[cite: 3].
-
-* **[CI/CD Service Status Dashboard](https://github.com/snesh111/service-status-dashboard)**[cite: 3]
-  * Engineered a centralized build monitoring dashboard on Node.js/Express, hosted on Dockerized AWS EC2 instances[cite: 3].
-  * Automated build status polling, cutting manual Jenkins pipeline checks by ~80%[cite: 3].
-
----
-
-### 📜 Certifications & Continuous Learning
-
-* **Scalable Web Applications on Kubernetes** — IBM Skills Network[cite: 3]
-* **Docker Essentials: A Developer Introduction** — IBM Skills Network[cite: 3]
-* **Executive Program in DevOps** — IT Vedant Education[cite: 3]
-
----
-
-### 📈 Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snesh111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Snesh's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snesh111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Open to DevOps Engineer, Cloud Engineer, and Platform Engineering opportunities.</i><br/>
-  <b><a href="https://linkedin.com/in/snesh-raj">Connect on LinkedIn</a></b> • <b><a href="mailto:rajsnesh67@gmail.com">Send an Email</a></b>[cite: 3]
+### 🚀 Key Projects
+
+- 🛒 **[ScaleX Flash Sale Platform](https://github.com/snesh111/scalex-flash-sale-platform)**[cite: 3]: Simulated 13k–17k flash sale requests with k6, resolved race conditions using Redis queues, and enabled auto-scaling (2 to 10 pods) via Kubernetes HPA[cite: 3].
+- 🌐 **[RealTalk Cloud-Native Platform](https://github.com/snesh111/realtalk)**[cite: 3]: Provisioned 17 AWS resources via Terraform, deployed containerized services on EKS, automated with a 6-stage Jenkins pipeline, and monitored with Prometheus & Grafana[cite: 3].
+- 📊 **[CI/CD Status Dashboard](https://github.com/snesh111/service-status-dashboard)**[cite: 3]: Built an Express/Docker service on EC2 tracking automated Jenkins builds via GitHub webhooks, reducing manual monitoring by 80%[cite: 3].
+
+---
+
+### 📜 Certifications
+
+- **Scalable Web Applications on Kubernetes** — IBM Skills Network[cite: 3]
+- **Docker Essentials: A Developer Introduction** — IBM Skills Network[cite: 3]
+- **Executive Program in DevOps** — IT Vedant Education[cite: 3]
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/snesh-raj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rajsnesh67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
