@@ -1,4 +1,4 @@
-# Hi there, I'm Snesh Subbiah Raj 👋
+# Hi there, I'm Snesh Raj 👋
 
 **DevOps & Cloud Engineer** • *Automating Infrastructure, Scaling Systems & Eliminating Downtime*
 
